@@ -1,0 +1,54 @@
+[
+    {
+      "doctorName": "Dr. Smith",
+      "treatName": "General Checkup",
+      "honorPrice": 100.0,
+      "imageUrl": "https://i.ibb.co/jMf5H2K/img1.webp",
+      "categoryName": "Primary Care",
+      "diseaseDescription": "A routine checkup to ensure overall health and well-being."
+    },
+    {
+      "doctorName": "Dr. Johnson",
+      "treatName": "Dental Cleaning",
+      "honorPrice": 80.0,
+      "imageUrl": "https://i.ibb.co/Kb7mYM1/img2.webp",
+      "categoryName": "Dentistry",
+      "diseaseDescription": "Professional dental cleaning to maintain oral hygiene."
+    },
+    {
+      "doctorName": "Dr. Brown",
+      "treatName": "Cardiac Consultation",
+      "honorPrice": 150.0,
+      "imageUrl": "https://i.ibb.co/6bZfr32/img3.webp",
+      "categoryName": "Cardiology",
+      "diseaseDescription": "Specialized consultation for heart-related concerns."
+    },
+    {
+
+        "doctorName": "Dr. White",
+        "treatName": "Dentist Checkup",
+        "honorPrice": 120.0,
+        "imageUrl": "https://i.ibb.co/Lv5yTQB/img4.webp",
+        "categoryName": "Pediatrics",
+        "diseaseDescription": "Comprehensive checkup for children to monitor growth and development."
+      },
+    {
+
+        "doctorName": "Dr. REd",
+        "treatName": "Fever Checkup",
+        "honorPrice": 180.0,
+        "imageUrl": "https://i.ibb.co/p37zxn8/img5.webp",
+        "categoryName": "Pediatrics",
+        "diseaseDescription": "Comprehensive checkup for children to monitor growth and development."
+      },
+    {
+
+        "doctorName": "Dr. Fozr",
+        "treatName": "Pediatric Checkup",
+        "honorPrice": 100.0,
+        "imageUrl": "https://i.ibb.co/jMf5H2K/img1.webp",
+        "categoryName": "psychiatric",
+        "diseaseDescription": "Comprehensive checkup for children to monitor growth and development."
+      }
+  ]
+  
